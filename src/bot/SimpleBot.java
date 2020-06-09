@@ -6,6 +6,7 @@ public class SimpleBot {
     final static Scanner scanner = new Scanner(System.in); // Do not change this line
 
     public static void main(String[] args) {
+        //bot starts here
         greet("Aid", "2018"); // change it as you need
         remindName();
         guessAge();
